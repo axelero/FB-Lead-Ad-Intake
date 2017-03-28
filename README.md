@@ -1,7 +1,7 @@
 # Facebook Lead Ad Intake Service
 Intake Service for capturing leads from Facebook Lead Ads
 
-##Get Permanent Page Access Token
+## Get Permanent Page Access Token
 *Adapted from Facebook for Developers [Access and Authentication](https://developers.facebook.com/docs/marketing-api/access)*
 
 1. First you need to obtain a **Short-Lived User Access Token**
